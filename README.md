@@ -6,5 +6,5 @@
           and many clients are happy with the projects carried out
 
 - Experience : 2 Years
-- Completed : 3+ Projects
+- Completed : 5+ Projects
 - Support : 24/7 online
