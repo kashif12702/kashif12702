@@ -5,11 +5,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Full Stack Developer** on AI-driven platforms  
-- 🧠 Building scalable products using **Next.js, Node.js, Firebase, PostgreSQL**  
-- 🚀 Passionate about turning ideas into **startup-level products**  
-- 🤝 Open to collaboration on **Full Stack & AI-integrated web projects**  
-- 💬 Ask me about **Next.js, Firebase, APIs, system design**  
+- 🔭 Currently working as a **Full Stack Developer** on AI-driven and product-based platforms  
+- 🧠 Building scalable applications using **MERN Stack (MongoDB, Express.js, React, Node.js)** and **Next.js**  
+- ⚡ Experienced with **Firebase, PostgreSQL**, and complex API integrations  
+- 🚀 Passionate about transforming ideas into **startup-ready, scalable products**  
+- 🤝 Open to collaborating on **Full Stack, MERN, and AI-integrated web projects**  
+- 💬 Ask me about **MERN Stack, Next.js, Firebase, APIs, system design, performance optimization**  
 - 📫 Reach me at **kashif12702@gmail.com**  
 
 ---
@@ -38,22 +39,6 @@
 - REST API Integration  
 - Performance Optimization  
 - Scalable Folder Architecture  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashifbilal&show_icons=true&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kashifbilal&theme=flat&no-frame=true" />
-</p>
 
 ---
 
