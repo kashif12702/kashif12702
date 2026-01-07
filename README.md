@@ -1,10 +1,82 @@
-- Hi, I’m "Muhammad Kashif Bilal"
-- Email : kashif12702@gmail.com
-- WhatsApp : +923402550308
-- Portfolio : http://kashif12702.vercel.app
-- Experience : 2.5 Years
-  
-Are you willing to work with a SKILLED AND EXPERIENCED Front-End web developer? Are you searching for one of the BEST web developers to build your website ? You're then picking the right person to get the job done RIGHT!
+<h1 align="center">Hi 👋, I'm Kashif Bilal</h1>
+<h3 align="center">Full Stack Web Developer | Next.js | Firebase | PostgreSQL</h3>
 
-Thanks,
+---
 
+### 👨‍💻 About Me
+
+- 🔭 Currently working as a **Full Stack Developer** on AI-driven platforms  
+- 🧠 Building scalable products using **Next.js, Node.js, Firebase, PostgreSQL**  
+- 🚀 Passionate about turning ideas into **startup-level products**  
+- 🤝 Open to collaboration on **Full Stack & AI-integrated web projects**  
+- 💬 Ask me about **Next.js, Firebase, APIs, system design**  
+- 📫 Reach me at **kashif12702@gmail.com**  
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- HTML5 / CSS3  
+- JavaScript (ES6+)  
+
+#### Backend
+- Node.js  
+- Express.js  
+- NestJS  
+
+#### Database & Tools
+- Firebase  
+- PostgreSQL  
+- Postman  
+- Git & GitHub  
+
+#### Others
+- REST API Integration  
+- Performance Optimization  
+- Scalable Folder Architecture  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashifbilal&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kashifbilal&theme=flat&no-frame=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/kashif_12702/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kashif12702/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/muhammadkashif.bilal.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I love building side projects that can scale into real businesses 🚀
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
