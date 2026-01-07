@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kashif Bilal</h1>
 <h3 align="center">Full Stack Web Developer | Next.js | Firebase | PostgreSQL</h3>
 
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/kashif_12702/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kashif12702/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/muhammadkashif.bilal.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -39,22 +53,6 @@
 - REST API Integration  
 - Performance Optimization  
 - Scalable Folder Architecture  
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/kashif_12702/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kashif12702/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/muhammadkashif.bilal.18/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-</p>
 
 ---
 
